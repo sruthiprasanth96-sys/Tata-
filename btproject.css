@@ -1,0 +1,51 @@
+.banner{
+    background-image: url(background.jpg);
+    padding: 200px;
+    background-size: cover;
+    height: 300px;
+}
+#footer{
+    background-color: black;
+    color: white;
+    min-height: 50px;
+    width: 100%;
+    padding: 10px;
+}
+.contact-form {
+    width: 400px;
+    min-height: 400px;
+    /* margin: 0 auto; */
+    background-color: #a6c3cc;
+    padding: 50px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.295);
+    margin-bottom: 50px;
+}
+#contact{
+    min-height: 500px;
+    width: 100%;
+    /* background-color: bisque; */
+}
+.box1{
+    min-height: 400px;
+    width: 100%;
+    /* background-image: url(contactus.jpg); */
+    background-size: cover;
+    /* padding: 50px; */
+    /* margin: 50px; */
+}
+.service{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.P{
+ font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.H{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(23, 23, 148);
+    font-size: 35px;
+}
+.bgform{
+    background-color: #ac795ea9;
+}
