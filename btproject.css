@@ -7,7 +7,7 @@
 #footer{
     background-color: black;
     color: white;
-    min-height: 50px;
+    min-height: 100px;
     width: 100%;
     padding: 10px;
 }
@@ -56,3 +56,4 @@
 #products{
     color:black;
 }
+
