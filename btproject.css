@@ -1,3 +1,7 @@
+section#animate:{
+    overflow:hidden;
+}
+
 .banner{
     background-image: url(background.jpg);
     padding: 200px;
@@ -56,4 +60,5 @@
 #products{
     color:black;
 }
+
 
